@@ -44,4 +44,4 @@ It’s mainly built as a lightweight management tool or a practice task for hand
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/nami-soft-dashboard.git
+   git clone https://github.com/yourusername/nami-soft-dashboard.git Eng.Muhammed Allam
